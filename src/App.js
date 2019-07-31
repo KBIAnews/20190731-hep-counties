@@ -15,7 +15,7 @@ class App extends Component {
         <GoogleSheetsContextProvider>
           <GoogleSheetsFetcher
             sheetURL={
-              "https://docs.google.com/spreadsheets/d/1ICqV9QxH114EOWT_obc8tYzzm2h0sA2EmxPuGkSAGFk/"
+              "https://docs.google.com/spreadsheets/d/16KlmbwSloqrVuKlxO7TbXAjk1qA5CMZVsl-onNlh6jU/"
             }
           />
           <GoogleSheetsContextConsumer>
@@ -37,7 +37,7 @@ class App extends Component {
                     <p>Credit: Nathan Lawrence / KBIA</p>
                     <p>
                       Data Source: Missouri Department of Health and Senior
-                      Services — March 4, 2019 Report
+                      Services — July 23, 2019 Report
                     </p>
                   </div>
                 </>
